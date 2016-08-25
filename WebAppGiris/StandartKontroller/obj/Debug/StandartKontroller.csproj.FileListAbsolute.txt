@@ -1,0 +1,12 @@
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\StandartKontroller\bin\StandartKontroller.dll.config
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\StandartKontroller\bin\StandartKontroller.dll
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\StandartKontroller\bin\StandartKontroller.pdb
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\StandartKontroller\bin\mscorlib.dll
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\StandartKontroller\bin\tr\mscorlib.resources.dll
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\StandartKontroller\bin\normidna.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\StandartKontroller\bin\normnfc.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\StandartKontroller\bin\normnfd.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\StandartKontroller\bin\normnfkc.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\StandartKontroller\bin\normnfkd.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\StandartKontroller\obj\Debug\StandartKontroller.dll
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\StandartKontroller\obj\Debug\StandartKontroller.pdb

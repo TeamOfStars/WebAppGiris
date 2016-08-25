@@ -1,0 +1,13 @@
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\ValidationControls\bin\ValidationControls.dll.config
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\ValidationControls\bin\ValidationControls.dll
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\ValidationControls\bin\ValidationControls.pdb
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\ValidationControls\bin\mscorlib.dll
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\ValidationControls\bin\tr\mscorlib.resources.dll
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\ValidationControls\bin\normidna.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\ValidationControls\bin\normnfc.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\ValidationControls\bin\normnfd.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\ValidationControls\bin\normnfkc.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\ValidationControls\bin\normnfkd.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\ValidationControls\obj\Debug\ValidationControls.csprojResolveAssemblyReference.cache
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\ValidationControls\obj\Debug\ValidationControls.dll
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\ValidationControls\obj\Debug\ValidationControls.pdb

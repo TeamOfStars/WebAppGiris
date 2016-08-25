@@ -1,0 +1,13 @@
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\DataKontroller_Repeater\bin\DataKontroller_Repeater.dll.config
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\DataKontroller_Repeater\bin\DataKontroller_Repeater.dll
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\DataKontroller_Repeater\bin\DataKontroller_Repeater.pdb
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\DataKontroller_Repeater\bin\mscorlib.dll
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\DataKontroller_Repeater\bin\tr\mscorlib.resources.dll
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\DataKontroller_Repeater\bin\normidna.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\DataKontroller_Repeater\bin\normnfc.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\DataKontroller_Repeater\bin\normnfd.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\DataKontroller_Repeater\bin\normnfkc.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\DataKontroller_Repeater\bin\normnfkd.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\DataKontroller_Repeater\obj\Debug\DataKontroller_Repeater.csprojResolveAssemblyReference.cache
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\DataKontroller_Repeater\obj\Debug\DataKontroller_Repeater.dll
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\DataKontroller_Repeater\obj\Debug\DataKontroller_Repeater.pdb

@@ -1,0 +1,13 @@
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\WebAppGiris\bin\WebAppGiris.dll.config
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\WebAppGiris\bin\WebAppGiris.dll
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\WebAppGiris\bin\WebAppGiris.pdb
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\WebAppGiris\bin\mscorlib.dll
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\WebAppGiris\bin\tr\mscorlib.resources.dll
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\WebAppGiris\bin\normidna.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\WebAppGiris\bin\normnfc.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\WebAppGiris\bin\normnfd.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\WebAppGiris\bin\normnfkc.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\WebAppGiris\bin\normnfkd.nlp
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\WebAppGiris\obj\Debug\WebAppGiris.csprojResolveAssemblyReference.cache
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\WebAppGiris\obj\Debug\WebAppGiris.dll
+c:\users\gökçen\documents\visual studio 2013\Projects\WebAppGiris\WebAppGiris\obj\Debug\WebAppGiris.pdb
